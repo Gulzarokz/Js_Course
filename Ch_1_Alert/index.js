@@ -23,5 +23,5 @@
 //:You can use single quotes intead of double quotes 
  
 
-alert('Your are singin successfully')
+// alert('Your are singin successfully')
 
